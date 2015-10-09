@@ -1,5 +1,10 @@
 import java.util.Iterator;
 
+/**
+ * 
+ * @author Ian Hunter
+ *
+ */
 public interface AddressBook {
 
    /** 
